@@ -1,0 +1,39 @@
+
+          
+                .card{
+                    background-color: rgb(212, 215, 231);
+                    border: 2px solid red;
+                    width: 15rem;
+                    border-radius: 5px;
+                    margin: auto;
+                    text-align: center;
+                    margin-top: 50px;
+                    border-spacing: 10px;
+                    padding-top: 20px;
+                    box-shadow: 15px 5px 5px 5px slategray ;
+
+                   
+                                      
+                }    
+                .cardchild{
+                    font-family: 'Courier New', Courier, monospace;
+                    font-size: 12;
+                 
+                    border-spacing: 5px;
+                    border-radius: 5px;
+                    margin: auto;
+                    width:max-content;
+
+                        
+                    
+                } 
+                #name{
+                    font-size: 14;
+                }
+                .image{
+                    border-radius: 5px;
+                }
+                    
+           
+
+      
