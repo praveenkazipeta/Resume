@@ -11,9 +11,9 @@
                     border-spacing: 10px;
                     padding-top: 20px;
                     box-shadow: 15px 5px 5px 5px slategray ;
+                  
 
-                   
-                                      
+                                                        
                 }    
                 .cardchild{
                     font-family: 'Courier New', Courier, monospace;
@@ -37,8 +37,18 @@
                     margin: 20px;
                     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
                     font-size: 20px;
+                 
                 
                 }
+                table,td,tr,th{
+                    border: 2px solid black;
+                    border-collapse: collapse;
+                    display: flexbox;
+                    margin: auto;
+                }
+
+                /* media queries*/
+                
                     
            
 
